@@ -1,0 +1,9 @@
+Square becomes a Circle
+
+The square wishes to be a circle, so he has to progress through the land and collect
+shards to eventually become a circle.
+
+Goal: Square has to go through the area and collect the shards
+Players: Square
+NPCs: Enemy Circles
+Obstacles: Spikes, Jumps
